@@ -1,3 +1,5 @@
+'use strict'
+
 var _ = require('lodash')
 class TicTacToe {
     constructor() { this.board = []; this.turn = 1;
